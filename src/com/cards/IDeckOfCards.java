@@ -12,4 +12,6 @@ public interface IDeckOfCards {
 	public void distribute();
 	
 	public void print();
+	
+	public void printDistributedCards();
 }
